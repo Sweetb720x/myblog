@@ -388,10 +388,15 @@ section{
 }
 
 .contact{
-    background:url(../images/contact-bg.jpg) no-repeat;
+    background:url(../images/contactos.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
+}
+
+.money{
+    color: rgb(74, 175, 46);
+    font-weight: 600;
 }
 
 .contact form{
